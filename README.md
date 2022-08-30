@@ -3,7 +3,7 @@
   ### About me:
   
 </p>
-
+[<img src="https://github.com/dore96/dore96/blob/main/Credentials/gif.gif" alt="intro gif" title="intro gif"/>]
 Hey there ! 👋<br/>
 
 My name is Dor Edelman ,I'm 26 years old , born and raised in Eilat.
