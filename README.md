@@ -1,10 +1,7 @@
 <p align="center">
   
-  ### About me:
-  
 </p>
-<img src="https://github.com/dore96/dore96/blob/main/introGif.gif" alt="intro gif" title="intro gif" width="288" height="214"/>
-Hey there ! 👋<br/>
+<img src="https://github.com/dore96/dore96/blob/main/introGif.gif" alt="intro gif" title="intro gif" width="500" height="250" align="center"/>
 
 My name is Dor Edelman ,I'm 26 years old , born and raised in Eilat.
 During the COVID-19 pandemic i found myself at home for many hours seeking for entertainment , and decided to take a programming free course online just to challenge myself. for many hours i have learned from scratch the basics, and as I delved deeper into the subject, I fell in love with programming! 
