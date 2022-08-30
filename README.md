@@ -24,17 +24,14 @@ So , if you think I'm the right person for you, feel free to contact me !
 ---
 
 ### 💯 Certificates: (studing after school hours)
-<!--
+
 <p align="center">
-    <img src="assets/certificates/git.jpg" alt="git" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/weirdjs.jpg" alt="weirdjs" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/linux.jpg" alt="linux" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/advancejs.jpg" alt="advancejs" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/react.jpg" alt="react" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/mathlab.png" alt="mathlab" width="288" height="214"/>&nbsp;
-    <img src="assets/certificates/mern_stack.jpeg" alt="mern_stack" width="288" height="214"/>&nbsp;
+    <img src="Credentials/CSharp funddamentals.jpg" alt="CSharp funddamentals" width="288" height="214"/>&nbsp;
+    <img src="Credentials/CSharpIntermediateCred.jpg" alt="CSharp Intermediate" width="288" height="214"/>&nbsp;
+    <img src="Credentials/GameDevCred.jpg" alt="GameDev" width="288" height="214"/>&nbsp;
+    <img src="Credentials/self.py.png" alt="python" width="288" height="214"/>&nbsp;
   </p>
--->
+  
 ---
 
 <!--
