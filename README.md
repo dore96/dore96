@@ -34,6 +34,25 @@ So , if you think I'm the right person for you, feel free to contact me !
   
 ---
 
+### 📬 Feel free to contact me:
+
+<p>
+Feel free to connect through this profile, via email or
+through the social networks:
+</p>
+
+<p>
+  <a href="https://www.facebook.com/dor.edelman">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877f2?logo=Facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/doredelman/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/dor-edelman-6b45b2230/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="Doredelman@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
 <!--
 **dore96/dore96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
