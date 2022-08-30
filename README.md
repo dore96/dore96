@@ -18,7 +18,7 @@ moving out of my comfort zone is not a new thing to me , as a combat officer in 
 Now I just can't wait to start working in the industry !
 I am passionate about programming , full of motivation for learning new technologies, growth and innovation.
 So , if you think I'm the right person for you, feel free to contact me !  
-📧 Doredelman@gmail.com 
+📧 Doredelman@gmail.com   
 ☎ 0532770953
 
 ---
