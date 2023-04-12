@@ -2,11 +2,14 @@
   
 </p>
 <img src="https://github.com/dore96/dore96/blob/main/introGif.gif" alt="intro gif" title="intro gif" width="500" height="250" align="center"/>
-Computer Science B.Sc. student in the Excellent program of the Academic College of Tel
+
+Hello! my name is Dor Edelman, 
+I am a Computer Science B.Sc. student in the Excellent program of the Academic College of Tel
 Aviv-Yafo with 1.5 years until graduation, Passionate for complex problem solving and the
 development of high-quality code.
 A self-learner with a desire to tackle technological challenges,
-Educated at Data Structures, Object-Oriented Programming, Python, C#, C++ and C
+Educated at Data Structures, Object-Oriented Programming, Python, C#, C++ and C.
+
 ---
 
 
